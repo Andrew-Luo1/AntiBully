@@ -1,0 +1,15 @@
+License is solely designed and operated by people that are invited in the collaborations
+Project Management, Design and Code are solely done by 
+Jalp Shah
+Jay Soni
+Zi Wang
+
+Business and Research by 
+Grace Geng
+
+Pitcher by 
+Andrew Luo
+
+Use of the code must notify Zi Wang through Github. 
+
+Thanks,
